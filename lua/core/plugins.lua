@@ -54,7 +54,7 @@ require("lazy").setup({
 
     -- identline
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} },
-    
+
     --lualine
     {
         'nvim-lualine/lualine.nvim',
